@@ -421,4 +421,11 @@ export default {
 
 <style lang='scss'>
 @import '@/styles/home';
+//追加
+
+.components-list .components-item{
+  display:grid;
+  width:80%;
+
+}
 </style>
