@@ -3,7 +3,8 @@
     <div class="left-board">
       <div class="logo-wrapper">
         <div class="logo">
-          <img :src="logo" alt="logo"> LowCode Generator
+          <!-- <img :src="logo" alt="logo">  -->
+          LowCode Generator
           <a class="github" href="" target="_blank">
             <img src="" alt>
           </a>
